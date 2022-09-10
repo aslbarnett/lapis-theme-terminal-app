@@ -19,7 +19,7 @@ or download the zip.
 2. Click on 'Profiles'.
 3. Click on the settings button (picture below).
 4. Click 'Import...'.
-5. Select the lapis.terminal file to import it.
+5. Select the Lapis.terminal file to import it.
 
 ![Screenshot](images/import-example.png)
 
