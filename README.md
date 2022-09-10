@@ -25,7 +25,7 @@ or download the zip.
 
 # Other Ports
 
-- [Lapis VS Code Theme](https://marketplace.visualstudio.com/items?itemName=AlexBarnett.lapis-vscode)
+- [Lapis Visual Studio Code Theme](https://marketplace.visualstudio.com/items?itemName=AlexBarnett.lapis-vscode)
 
 # Feedback
 
