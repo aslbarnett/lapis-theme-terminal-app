@@ -1,10 +1,10 @@
-<p align="center"><img style="width: 200px" src="images/logo.png" /></p>
+<p align="center"><img style="width: 200px" src="https://raw.githubusercontent.com/aslbarnett/lapis-terminal-app/main/images/logo.png" /></p>
 
 # Lapis Terminal App
 
 A dark blue theme for Terminal.app.
 
-![Screenshot](images/lapis-demo.png)
+![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-terminal-app/main/images/lapis-demo.png)
 
 # Installation
 
@@ -21,7 +21,7 @@ or download the zip.
 4. Click 'Import...'.
 5. Select the Lapis.terminal file to import it.
 
-![Screenshot](images/import-example.png)
+![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-terminal-app/main/images/import-example.png)
 
 # Other Ports
 
