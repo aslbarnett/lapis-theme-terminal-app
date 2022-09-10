@@ -23,6 +23,10 @@ or download the zip.
 
 ![Screenshot](images/import-example.png)
 
+# Other Ports
+
+- [Lapis VS Code Theme](https://marketplace.visualstudio.com/items?itemName=AlexBarnett.lapis-vscode)
+
 # Feedback
 
 If you see any issues with the theme, please [open an issue](https://github.com/aslbarnett/lapis-terminal-app/issues).
