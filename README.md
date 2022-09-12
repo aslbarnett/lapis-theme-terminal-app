@@ -15,11 +15,13 @@ git clone https://github.com/aslbarnett/lapis-terminal-app.git
 ```
 or download the zip.
 
-1. Start Terminal.app and open 'Preferences'.
-2. Click on 'Profiles'.
+1. Start Terminal.app and open **Preferences**.
+2. Click on **Profiles**.
 3. Click on the settings button (picture below).
-4. Click 'Import...'.
-5. Select the Lapis.terminal file to import it.
+4. Click **Import...**.
+5. Select the **Lapis.terminal** file to import it.
+6. Alternatively, select one of the lapis variants (change in bold text and cursor color) as listed below:
+- LapisAmethyst.terminal
 
 ![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-terminal-app/main/images/import-example.png)
 
