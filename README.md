@@ -21,7 +21,12 @@ or download the zip.
 4. Click **Import...**.
 5. Select the **Lapis.terminal** file to import it.
 6. Alternatively, select one of the lapis variants (change in bold text and cursor color) as listed below:
-- LapisAmethyst.terminal
+- **LapisAmethyst.terminal**
+- **LapisRuby.terminal**
+- **LapisAmber.terminal**
+- **LapisPeridot.terminal**
+- **LapisAquamarine.terminal**
+- **LapisQuartz.terminal**
 
 ![Screenshot](https://raw.githubusercontent.com/aslbarnett/lapis-terminal-app/main/images/import-example.png)
 
