@@ -2,6 +2,10 @@
 
 All notable changes to the "lapis" terminal app will be documented in this file.
 
+## "1.3.0"
+
+- Add remaining variants (amber, peridot, aquamarine, quartz).
+
 ## "1.2.0"
 
 - Add Lapis Ruby variant.
